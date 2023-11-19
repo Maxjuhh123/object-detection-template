@@ -1,0 +1,8 @@
+# Define paths to resources
+path: C:\Users\maxde\PycharmProjects\object-detection-template\resources # Absolute path to resources directory
+train: images/training
+val: images/validation
+
+# Classes
+names:
+  0: glasses
